@@ -220,6 +220,8 @@ p.note { display: none; }
 <h2><span class="yellow">知り合い宅のお花達も見事に満開</span></h2>
 <a href="20260616_020.JPG" target="_blank"><img src="20260616_020.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260616_021.JPG" target="_blank"><img src="20260616_021.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">お昼はさくら市で、またまたお蕎麦</span></h2>
 <a href="20260616_022.JPG" target="_blank"><img src="20260616_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260616_023.JPG" target="_blank"><img src="20260616_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260616_024.JPG" target="_blank"><img src="20260616_024.JPG" alt="サンプル画像" class="responsive-media"></a>
